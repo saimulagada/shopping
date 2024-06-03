@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HarmoniaSansW06';
+    src: url('HarmoniaSansW06-BoldItalic.woff2') format('woff2'),
+        url('HarmoniaSansW06-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+

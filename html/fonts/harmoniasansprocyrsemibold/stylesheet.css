@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Harmonia Sans Pro Cyr Semi Bd';
+    src: url('HarmoniaSansProCyr-SemiBd.woff2') format('woff2'),
+        url('HarmoniaSansProCyr-SemiBd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

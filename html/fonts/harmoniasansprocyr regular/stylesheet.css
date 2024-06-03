@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HarmoniaSansProCyrRegular';
+    src: url('HarmoniaSansProCyrRegular.woff2') format('woff2'),
+        url('HarmoniaSansProCyrRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
